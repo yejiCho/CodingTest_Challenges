@@ -6,6 +6,8 @@
 
 - [직사각형 별찍기](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_1/1.md)
 
+- [시저암호](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_1/2.md)
+
 
 ## LEVEL 2
 
