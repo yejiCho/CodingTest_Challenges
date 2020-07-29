@@ -16,3 +16,5 @@
 - [프린터](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_2/3.md)
 
 - [쇠막대기](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_2/4.md)
+
+- [h-index](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_2/6.md)
