@@ -8,6 +8,7 @@
 
 - [시저암호](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_1/2.md)
 
+- [모의고사](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_1/3.md)
 
 ## LEVEL 2
 
