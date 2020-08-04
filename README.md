@@ -23,3 +23,5 @@
 - [h-index](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_2/6.md)
 
 - [타겟 넘버](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_2/8.md)
+
+- [카펫](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_2/9.md)
