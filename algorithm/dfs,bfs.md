@@ -53,6 +53,16 @@ dfs(graph,'A')
 
 ![dfs](https://github.com/yejiCho/Programmers_Challenges/blob/master/image/dfs.png)
 
+- 시간복잡도
+
+```
+일반적인 DFS 시간 복잡도
+노드 수 : V
+간선 수 : E
+위 코드에서 while need_visit은 V + E 번 만큼 수행함
+시간 복잡도 O(V+E)
+```
+
 ## bfs
 
 너비 우선 탐색(breadth first search):
@@ -77,5 +87,14 @@ bfs(graph, 'A')
 
 ```
 ![bfs](https://github.com/yejiCho/Programmers_Challenges/blob/master/image/bfs.png)
+
+
+- 시간복잡도
+
+```
+노드 수 : V
+간선 수 : E
+시간 복잡도: O(V+E)
+```
 
 - [dfs,bfs](https://www.fun-coding.org/Chapter18-bfs-live.html)
