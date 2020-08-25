@@ -2,6 +2,10 @@
 
 - programmers 코딩테스트 연습 문제풀이
 
+## 알고리즘
+
+- [dfs,bfs](https://github.com/yejiCho/Programmers_Challenges/blob/master/algorithm/dfs%2Cbfs.md)
+
 ## LEVEL 1
 
 - [직사각형 별찍기](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_1/1.md)
@@ -9,6 +13,10 @@
 - [시저암호](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_1/2.md)
 
 - [모의고사](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_1/3.md)
+
+- [자릿수 더하기](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_1/4.md)
+
+- [짝수와 홀수](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_1/5.md)
 
 ## LEVEL 2
 
