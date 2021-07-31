@@ -1,10 +1,11 @@
-# 👨‍💻Programmers_Challenges
+# 👨‍💻CodingTest_Challenges
 
-- programmers 코딩테스트 연습 문제풀이
 
 ## 알고리즘
 
 - [dfs,bfs](https://github.com/yejiCho/Programmers_Challenges/blob/master/algorithm/dfs%2Cbfs.md)
+
+# Programmers
 
 ## LEVEL 1
 
@@ -35,3 +36,15 @@
 - [타겟 넘버](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_2/8.md)
 
 - [카펫](https://github.com/yejiCho/Programmers_Challenges/blob/master/LEVEL_2/9.md)
+
+# LeetCode
+
+```
+https://www.fwantastic.com/2020/12/faang-1-leetcode.html
+
+블로그에서 LeetCode를 효율적으로 사용하는법을 보았는데 두번째 공부방법을 사용해볼려고 한다.
+
+Blind 유저가 올린 75추천 문제위주 풀이.
+```
+
+- [LeetCode_Challenges](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
