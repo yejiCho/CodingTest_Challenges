@@ -49,13 +49,15 @@ Blind 유저가 올린 75추천 문제위주 풀이.
 
 - [LeetCode_Challenges](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+### Array
 
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [X] [Two Sum](https://leetcode.com/problems/two-sum/)
 
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [X] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [X] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+
+- [X] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
