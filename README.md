@@ -70,3 +70,11 @@ Blind 유저가 올린 75추천 문제위주 풀이.
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
 
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+
+### Heap
+
+- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+
+- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+- [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
