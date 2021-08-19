@@ -59,7 +59,7 @@ Blind 유저가 올린 75추천 문제위주 풀이.
 
 - [X] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [X] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
