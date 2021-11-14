@@ -3,7 +3,7 @@ import java.util.stream.Collectors;
 import java.util.List;
 import java.util.ArrayList;
 
-public class Six {
+public class PR_0106 {
 
 	// 중복문자제거
 	// 소문자로 된 한개의 문자열이 입력되면 중복된 문자를 제거하고 출력
