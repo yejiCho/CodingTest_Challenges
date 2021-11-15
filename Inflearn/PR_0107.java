@@ -1,3 +1,5 @@
+import com.sun.tools.javac.Main;
+
 import java.util.Scanner;
 
 public class PR_0107 {
@@ -29,7 +31,7 @@ public class PR_0107 {
         Scanner in=new Scanner(System.in);
         String inputString = in.next();
 
-        Main m = new Main();
+        PR_0107 m = new PR_0107();
 
         System.out.println(m.solution(inputString));
 

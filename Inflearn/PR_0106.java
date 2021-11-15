@@ -29,7 +29,7 @@ public class PR_0106 {
 
 	public static void main(String[] args){
 
-		Five f = new Five();
+		PR_0106 f = new PR_0106();
 		
 		Scanner in = new Scanner(System.in);
 		String ex = in.nextLine();

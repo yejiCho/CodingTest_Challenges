@@ -1,3 +1,5 @@
+import com.sun.tools.javac.Main;
+
 import java.util.Scanner;
 
 public class PR_0102 {
@@ -16,7 +18,7 @@ public class PR_0102 {
 
     public static void main(String[] args){
 
-        Main T = new Main();
+        PR_0102 T = new PR_0102();
         Scanner kb = new Scanner(System.in);
         String str = kb.next();
 
